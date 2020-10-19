@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.jaspersoft.ireport.samples">
+    <module_version install_time="1401294773444" last="true" origin="installer" specification_version="1.0">
+        <file crc="1093005153" name="config/Modules/com-jaspersoft-ireport-samples.xml"/>
+        <file crc="0" name="database/test.data"/>
+        <file crc="1263342910" name="database/test.properties"/>
+        <file crc="785857943" name="database/test.script"/>
+        <file crc="1088842046" name="modules/com-jaspersoft-ireport-samples.jar"/>
+        <file crc="585398722" name="modules/ext/hsqldb-1.8.0-10-LICENSE.txt"/>
+        <file crc="3646717406" name="modules/ext/hsqldb-1.8.0-10.jar"/>
+        <file crc="3496219832" name="samples/Basic_report/simple.jasper"/>
+        <file crc="22477320" name="samples/Basic_report/simple.jrxml"/>
+        <file crc="2580836649" name="samples/Basic_report/simple.pdf"/>
+        <file crc="3669651631" name="samples/Charts/charts.html"/>
+        <file crc="2083622564" name="samples/Charts/charts.html_files/img_0_0_2"/>
+        <file crc="1167593004" name="samples/Charts/charts.html_files/img_0_0_5"/>
+        <file crc="2316244851" name="samples/Charts/charts.html_files/img_0_0_6"/>
+        <file crc="515793119" name="samples/Charts/charts.html_files/img_0_0_7"/>
+        <file crc="2670521754" name="samples/Charts/charts.html_files/px"/>
+        <file crc="1350849943" name="samples/Charts/charts.jasper"/>
+        <file crc="1750877360" name="samples/Charts/charts.jrxml"/>
+        <file crc="4241668763" name="samples/Charts/charts.pdf"/>
+        <file crc="2977318785" name="samples/Crosstabs/crosstabs.jasper"/>
+        <file crc="3813916413" name="samples/Crosstabs/crosstabs.jrxml"/>
+        <file crc="801170027" name="samples/Elements/elements.html"/>
+        <file crc="2778966837" name="samples/Elements/elements.html_files/img_0_0_12"/>
+        <file crc="787478550" name="samples/Elements/elements.jasper"/>
+        <file crc="254057752" name="samples/Elements/elements.jrxml"/>
+        <file crc="2546572106" name="samples/Elements/elements.pdf"/>
+        <file crc="2778966837" name="samples/Elements/js_logo.png"/>
+        <file crc="3031519323" name="samples/Fonts/fonts.html"/>
+        <file crc="2989753782" name="samples/Fonts/fonts.jasper"/>
+        <file crc="1550848036" name="samples/Fonts/fonts.jrxml"/>
+        <file crc="3921870597" name="samples/Fonts/fonts.pdf"/>
+        <file crc="2609701217" name="samples/Groups/groups.html"/>
+        <file crc="2670521754" name="samples/Groups/groups.html_files/px"/>
+        <file crc="1448784015" name="samples/Groups/groups.jasper"/>
+        <file crc="3706981036" name="samples/Groups/groups.jrxml"/>
+        <file crc="1945224383" name="samples/Groups/groups.pdf"/>
+        <file crc="1231072859" name="samples/Parameters_and_Variables/parameters_and_variables.html"/>
+        <file crc="2670521754" name="samples/Parameters_and_Variables/parameters_and_variables.html_files/px"/>
+        <file crc="1576713904" name="samples/Parameters_and_Variables/parameters_and_variables.jasper"/>
+        <file crc="696583368" name="samples/Parameters_and_Variables/parameters_and_variables.jrxml"/>
+        <file crc="2339943868" name="samples/Parameters_and_Variables/parameters_and_variables.pdf"/>
+        <file crc="3247482149" name="samples/Subreports/master.jasper"/>
+        <file crc="4249583538" name="samples/Subreports/master.jrxml"/>
+        <file crc="2572685824" name="samples/Subreports/master.pdf"/>
+        <file crc="2768730427" name="samples/Subreports/subreport_cities.jasper"/>
+        <file crc="2581638078" name="samples/Subreports/subreport_cities.jrxml"/>
+        <file crc="1265239846" name="samples/Subreports/subreport_orders.jasper"/>
+        <file crc="2495101993" name="samples/Subreports/subreport_orders.jrxml"/>
+    </module_version>
+</module>

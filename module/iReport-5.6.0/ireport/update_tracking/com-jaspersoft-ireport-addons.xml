@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.jaspersoft.ireport.addons">
+    <module_version install_time="1401294772446" last="true" origin="installer" specification_version="1.0">
+        <file crc="266345136" name="config/Modules/com-jaspersoft-ireport-addons.xml"/>
+        <file crc="1101350545" name="modules/com-jaspersoft-ireport-addons.jar"/>
+    </module_version>
+</module>

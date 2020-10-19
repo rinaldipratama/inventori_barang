@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.jaspersoft.ireport.hadoop.hive">
+    <module_version install_time="1401294767630" last="true" origin="installer" specification_version="1.0.4">
+        <file crc="1517908058" name="config/Modules/com-jaspersoft-ireport-hadoop-hive.xml"/>
+        <file crc="2028634035" name="modules/com-jaspersoft-ireport-hadoop-hive.jar"/>
+        <file crc="689180359" name="modules/ext/commons-pool-1.6.jar"/>
+        <file crc="2182955149" name="modules/ext/hadoop-core-1.0.1.jar"/>
+        <file crc="1428813420" name="modules/ext/hive-common-0.8.1.jar"/>
+        <file crc="98535542" name="modules/ext/hive-exec-0.8.1.jar"/>
+        <file crc="3905257895" name="modules/ext/hive-jdbc-0.8.1.jar"/>
+        <file crc="675356615" name="modules/ext/hive-metastore-0.8.1.jar"/>
+        <file crc="1982948221" name="modules/ext/hive-service-0.8.1.jar"/>
+        <file crc="3651620473" name="modules/ext/js-hive-datasource-1.0.4.jar"/>
+        <file crc="3332912497" name="modules/ext/libfb303-0.7.0.jar"/>
+        <file crc="3122381491" name="modules/ext/libthrift-0.9.0-snapshot.jar"/>
+        <file crc="2165395198" name="modules/ext/slf4j-api-1.5.8.jar"/>
+        <file crc="2713670763" name="modules/ext/slf4j-log4j12-1.5.8.jar"/>
+    </module_version>
+</module>

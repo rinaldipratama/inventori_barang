@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.editor.deprecated.pre61completion/0">
+    <module_version install_time="1236310340154" last="true" origin="installer" specification_version="1.0.1">
+        <file crc="1020486512" name="config/Modules/org-netbeans-modules-editor-deprecated-pre61completion.xml"/>
+        <file crc="1754692828" name="modules/org-netbeans-modules-editor-deprecated-pre61completion.jar"/>
+    </module_version>
+</module>

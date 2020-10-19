@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.libs.commons_net/1">
+    <module_version install_time="1236309777305" last="true" origin="installer" specification_version="1.2.1">
+        <file crc="3804243529" name="config/Modules/org-netbeans-libs-commons_net.xml"/>
+        <file crc="699668785" name="modules/ext/commons-net-1.4.1.jar"/>
+        <file crc="3854451800" name="modules/org-netbeans-libs-commons_net.jar"/>
+    </module_version>
+</module>

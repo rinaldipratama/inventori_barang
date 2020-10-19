@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.db.sql.editor">
+    <module_version install_time="1236310278745" last="true" origin="installer" specification_version="1.7.1.30">
+        <file crc="2930193144" name="config/Modules/org-netbeans-modules-db-sql-editor.xml"/>
+        <file crc="4079294951" name="modules/org-netbeans-modules-db-sql-editor.jar"/>
+    </module_version>
+</module>

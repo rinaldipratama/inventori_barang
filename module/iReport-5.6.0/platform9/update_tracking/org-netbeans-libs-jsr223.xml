@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.libs.jsr223/1">
+    <module_version install_time="1236309781400" last="true" origin="installer" specification_version="1.8.1">
+        <file crc="1994322325" name="config/Modules/org-netbeans-libs-jsr223.xml"/>
+        <file crc="2594704456" name="modules/ext/script-api.jar"/>
+        <file crc="1637820308" name="modules/org-netbeans-libs-jsr223.jar"/>
+    </module_version>
+</module>

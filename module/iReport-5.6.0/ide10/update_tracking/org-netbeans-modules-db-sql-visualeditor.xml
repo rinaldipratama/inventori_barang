@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.db.sql.visualeditor/1">
+    <module_version install_time="1236310114445" last="true" origin="installer" specification_version="2.3.1.30">
+        <file crc="2463638716" name="config/Modules/org-netbeans-modules-db-sql-visualeditor.xml"/>
+        <file crc="2127116377" name="modules/org-netbeans-modules-db-sql-visualeditor.jar"/>
+    </module_version>
+</module>

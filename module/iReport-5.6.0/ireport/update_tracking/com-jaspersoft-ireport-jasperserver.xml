@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.jaspersoft.ireport.jasperserver">
+    <module_version install_time="1401294770181" last="true" origin="installer" specification_version="1.0">
+        <file crc="2386295519" name="config/Modules/com-jaspersoft-ireport-jasperserver.xml"/>
+        <file crc="325652271" name="modules/com-jaspersoft-ireport-jasperserver.jar"/>
+        <file crc="1130964003" name="modules/ext/js_activation-1.1.jar"/>
+        <file crc="3417660792" name="modules/ext/js_axis-1.4patched.jar"/>
+        <file crc="1856893722" name="modules/ext/js_commons-codec-1.3.jar"/>
+        <file crc="1881320085" name="modules/ext/js_commons-discovery-0.2.jar"/>
+        <file crc="1640872803" name="modules/ext/js_commons-httpclient-3.1.jar"/>
+        <file crc="745069171" name="modules/ext/js_jasperserver-common-ws-4.7.1.jar"/>
+        <file crc="717609182" name="modules/ext/js_jaxrpc.jar"/>
+        <file crc="558539713" name="modules/ext/js_mail-1.4.jar"/>
+        <file crc="2898765198" name="modules/ext/js_saaj-api-1.3.jar"/>
+        <file crc="3112574937" name="modules/ext/js_wsdl4j-1.5.1.jar"/>
+    </module_version>
+</module>

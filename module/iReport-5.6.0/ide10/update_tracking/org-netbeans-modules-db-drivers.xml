@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.db.drivers">
+    <module_version install_time="1236309875151" last="true" origin="installer" specification_version="1.2.1">
+        <file crc="1429346143" name="config/Modules/org-netbeans-modules-db-drivers.xml"/>
+        <file crc="3001390372" name="modules/ext/mysql-connector-java-5.1.6-bin.jar"/>
+        <file crc="3488789677" name="modules/ext/postgresql-8.3-603.jdbc3.jar"/>
+        <file crc="1564538869" name="modules/org-netbeans-modules-db-drivers.jar"/>
+    </module_version>
+</module>

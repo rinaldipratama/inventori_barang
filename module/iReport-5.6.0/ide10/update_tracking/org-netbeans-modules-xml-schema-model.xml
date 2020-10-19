@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.xml.schema.model/1">
+    <module_version install_time="1236310025161" last="true" origin="installer" specification_version="1.4.1">
+        <file crc="2182734680" name="config/Modules/org-netbeans-modules-xml-schema-model.xml"/>
+        <file crc="396158821" name="modules/org-netbeans-modules-xml-schema-model.jar"/>
+    </module_version>
+</module>

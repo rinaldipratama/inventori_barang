@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.jaspersoft.ireport.mongodb">
+    <module_version install_time="1401294772928" last="true" origin="installer" specification_version="0.9.3">
+        <file crc="3570054616" name="config/Modules/com-jaspersoft-ireport-mongodb.xml"/>
+        <file crc="740140491" name="modules/com-jaspersoft-ireport-mongodb.jar"/>
+        <file crc="689180359" name="modules/ext/commons-pool-1.6.jar"/>
+        <file crc="3483260771" name="modules/ext/js-mongodb-datasource-1.0.0a.jar"/>
+        <file crc="354931207" name="modules/ext/mongo-java-driver-2.7.3.jar"/>
+    </module_version>
+</module>
