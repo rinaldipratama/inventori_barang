@@ -573,7 +573,7 @@ public class FrmtransaksiKeluar extends javax.swing.JDialog {
                     java.sql.ResultSet sql = stm.executeQuery("SELECT stok FROM tmbarang WHERE id = '" + id + "'");
 
                     sql.next();
-                    sql.last();
+                    //sql.last();
                     if (sql.getRow() == 1){
                         stok = (sql.getInt("stok") - jumlah);
                     } else {
